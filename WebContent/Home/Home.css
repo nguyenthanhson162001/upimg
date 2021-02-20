@@ -1,0 +1,25 @@
+@charset "ISO-8859-1";
+
+#content {
+	text-align: center;
+}
+
+.status {
+	border: solid 1px gray;
+	text-align: center;
+	margin-top: 100px;
+	margin-top: 100px;
+	margin-left: 30%;
+	width: 650px;
+	border-radius: 10px;
+}
+
+.username {
+	margin: 20px;
+	text-align: left;
+}
+
+img {
+	width: 410px;
+	margin-top: 50px
+}
